@@ -51,18 +51,18 @@
       <description>&lt;p&gt;Nulla vel ante sit amet leo imperdiet porta. Mauris pellentesque finibus ligula non dignissim. Sed sed vehicula velit. Ut eleifend velit maximus massa lobortis mattis. In dui quam, rutrum eu purus et, mattis consequat ex. Vivamus risus mauris, ultricies vel dolor eget, aliquet tristique est. Suspendisse odio urna, vehicula vel diam at, pulvinar porttitor metus. Sed ac ipsum et magna aliquam mattis in eleifend mi. Pellentesque porttitor diam nec hendrerit efficitur. In hac habitasse platea dictumst. Nam arcu enim, imperdiet quis molestie molestie, molestie non diam. Quisque pretium felis in lorem placerat rhoncus eu et lorem. Praesent tincidunt purus sed mi lacinia maximus. Curabitur rutrum tempus posuere. Donec quis fringilla enim. Nullam nisl nisl, vestibulum sed enim vel, tempor pulvinar ligula.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/pages/about/</link>
+      <title>Contacta</title>
+      <link>http://localhost:1313/pages/contacta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/about/</guid>
-      <description>&lt;p&gt;Hugo cards is a Bootstrap based theme ported from the Jekyll theme &lt;a href=&#34;https://webjeda.com/cards/&#34;&gt;Webjeda-cards&lt;/a&gt;. Any Bootstrap element can be used in the theme.&lt;/p&gt;&#xA;&lt;p&gt;For more themes, visit &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;Hugo Themes&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Does the theme deserve a star?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Star&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <guid>http://localhost:1313/pages/contacta/</guid>
+      <description>&lt;p&gt;Hola si voleu contactar amb nosaltres podeu fer-ho per:&lt;/p&gt;&#xA;&lt;p&gt;-&amp;gt; correu &lt;a href=&#34;elpartidor@gmail.com&#34;&gt;email&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;gt; via &lt;a href=&#34;https://www.instagram.com/aavvelpartidor/&#34;&gt;@aavvelpartidor&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/pages/contact/</link>
+      <title>Uneix-te</title>
+      <link>http://localhost:1313/pages/uneixte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/contact/</guid>
-      <description>&lt;p&gt;Visit &lt;a href=&#34;https://bool.netlify.com&#34;&gt;my site&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Insert your contact details or a contact form here.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/pages/uneixte/</guid>
+      <description>&lt;p&gt;Fes-te membre de l’Associació de Veïns i Veïnes de Campanar. Quants més ens unim, més podrem fer pel barri.&lt;/p&gt;&#xA;&lt;h3 id=&#34;formulari-dinscripció-i-domiciliació-de-quotes&#34;&gt;Formulari d&amp;rsquo;inscripció i domiciliació de quotes&lt;/h3&gt;&#xA;&lt;p&gt;Si vols ajudar-nos a conseguir un barri millor per a viure pots afiliar-te a l&amp;rsquo;Associació de veïns i veïnes de Campanar emplenant el formulari.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;INSCRIPCIÓ&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Una vegada omplit el formulari d&amp;rsquo;inscripció rebràs un email amb el document de domiciliació de les quotes, que caldrà que plenes i tornes signat.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
