@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AAVV el Partidor</title>
-    <link>https://aavvelpartidor.github.io/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on AAVV el Partidor</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aprenem juntes</title>
-      <link>https://aavvelpartidor.github.io/posts/welcome-to-hugo/</link>
+      <link>//localhost:1313/posts/welcome-to-hugo/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://aavvelpartidor.github.io/posts/welcome-to-hugo/</guid>
+      <guid>//localhost:1313/posts/welcome-to-hugo/</guid>
       <description>&lt;p&gt;Aprenem juntes és una activitat oberta a tot el veïnat, en especial als més xicotets. El que tractem en aquest taller&#xA;és donar atenció a les xiquetes i xiquets nou vinguts per poder tindre une espai per introduïr-se en la llengua a través&#xA;dels jocs l&amp;rsquo;escriptura, el dibuix i la conversa.&lt;/p&gt;&#xA;&lt;p&gt;Un espai en obert a totes aquells xiquets i xiquetes que necessiten un espai un poder aprendre conjuntament i socialitzar&#xA;amb confiança a partir de compartir el temps, la parla i l&amp;rsquo;escolta.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Taller ioga</title>
-      <link>https://aavvelpartidor.github.io/posts/taller-ioga/</link>
+      <link>//localhost:1313/posts/taller-ioga/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://aavvelpartidor.github.io/posts/taller-ioga/</guid>
+      <guid>//localhost:1313/posts/taller-ioga/</guid>
       <description>&lt;p&gt;El taller de ioga és un espai on les veïnes comparteixen temps i espai a partir de l&amp;rsquo;aprenentatge mutu i l&amp;rsquo;exercici en conjunt.&lt;/p&gt;&#xA;&lt;p&gt;Aquest espai és un espai de confiança mútua i de creació de vincles en comú on les participants aprenent compartint a partir de la confiança mútua i la creació de vincles personals, afectius i socials.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Horari:&lt;/strong&gt; dimarts i dijous de 18.00 a 19.00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lloc:&lt;/strong&gt; Seu Associació de Veïnes el Partidor, C/ Sant Vicent Ferrer, 2, Alcoi&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contacta</title>
-      <link>https://aavvelpartidor.github.io/pages/contacta/</link>
+      <link>//localhost:1313/pages/contacta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aavvelpartidor.github.io/pages/contacta/</guid>
+      <guid>//localhost:1313/pages/contacta/</guid>
       <description>&lt;p&gt;Hola si voleu contactar amb nosaltres podeu fer-ho per:&lt;/p&gt;&#xA;&lt;p&gt;correu &lt;a href=&#34;elpartidor@gmail.com&#34;&gt;email&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;https://www.instagram.com/aavvelpartidor/&#34;&gt;@aavvelpartidor&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Uneix-te</title>
-      <link>https://aavvelpartidor.github.io/pages/uneix-te/</link>
+      <link>//localhost:1313/pages/uneix-te/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aavvelpartidor.github.io/pages/uneix-te/</guid>
+      <guid>//localhost:1313/pages/uneix-te/</guid>
       <description>&lt;p&gt;Fes-te membre de l’Associació de Veïns i Veïnes de Campanar. Quants més ens unim, més podrem fer pel barri.&lt;/p&gt;&#xA;&lt;h3 id=&#34;formulari-dinscripció-i-domiciliació-de-quotes&#34;&gt;Formulari d&amp;rsquo;inscripció i domiciliació de quotes&lt;/h3&gt;&#xA;&lt;p&gt;Si vols ajudar-nos a conseguir un barri millor per a viure pots afiliar-te a l&amp;rsquo;Associació de veïns i veïnes de Campanar emplenant el formulari.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;INSCRIPCIÓ&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Una vegada omplit el formulari d&amp;rsquo;inscripció rebràs un email amb el document de domiciliació de les quotes, que caldrà que plenes i tornes signat.&lt;/p&gt;</description>
     </item>
   </channel>
