@@ -3,49 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
-    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+    <loc>//localhost:1313/tags/activitats/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/one/</loc>
-    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/two/</loc>
-    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+    <loc>//localhost:1313/categories/activitats/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/welcome-to-hugo/</loc>
-    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/usage/</loc>
-    <lastmod>2016-06-12T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/categories/aprenentatge/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/no-image/</loc>
-    <lastmod>2016-06-09T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/installation/</loc>
-    <lastmod>2016-05-09T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/categories/ioga/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/tag_c/</loc>
-    <lastmod>2016-05-09T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2016-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/elements/</loc>
-    <lastmod>2016-04-10T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/categories/taller/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/tag_a/</loc>
-    <lastmod>2016-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/documentation/</loc>
-    <lastmod>2016-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/tag_b/</loc>
-    <lastmod>2016-03-09T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/posts/taller-ioga/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/pages/contacta/</loc>
   </url><url>
