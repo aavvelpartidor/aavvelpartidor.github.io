@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on AAVV el Partidor</title>
+    <link>https://aavvelpartidor.github.io/categories/</link>
+    <description>Recent content in Categories on AAVV el Partidor</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aavvelpartidor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Activitats</title>
+      <link>https://aavvelpartidor.github.io/categories/activitats/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://aavvelpartidor.github.io/categories/activitats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aprenentatge</title>
+      <link>https://aavvelpartidor.github.io/categories/aprenentatge/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://aavvelpartidor.github.io/categories/aprenentatge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ioga</title>
+      <link>https://aavvelpartidor.github.io/categories/ioga/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://aavvelpartidor.github.io/categories/ioga/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taller</title>
+      <link>https://aavvelpartidor.github.io/categories/taller/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://aavvelpartidor.github.io/categories/taller/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
