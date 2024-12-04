@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on AAVV el Partidor</title>
-    <link>http://localhost:1313/aavvelpartidor.github.io/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on AAVV el Partidor</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/aavvelpartidor.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contacta</title>
-      <link>http://localhost:1313/aavvelpartidor.github.io/pages/contacta/</link>
+      <link>http://localhost:1313/pages/contacta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aavvelpartidor.github.io/pages/contacta/</guid>
+      <guid>http://localhost:1313/pages/contacta/</guid>
       <description>&lt;p&gt;Hola si voleu contactar amb nosaltres podeu fer-ho per:&lt;/p&gt;&#xA;&lt;p&gt;correu &lt;a href=&#34;elpartidor@gmail.com&#34;&gt;email&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;via &lt;a href=&#34;https://www.instagram.com/aavvelpartidor/&#34;&gt;@aavvelpartidor&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Uneix-te</title>
-      <link>http://localhost:1313/aavvelpartidor.github.io/pages/uneix-te/</link>
+      <link>http://localhost:1313/pages/uneix-te/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aavvelpartidor.github.io/pages/uneix-te/</guid>
+      <guid>http://localhost:1313/pages/uneix-te/</guid>
       <description>&lt;p&gt;Fes-te membre de l’Associació de Veïns i Veïnes de Campanar. Quants més ens unim, més podrem fer pel barri.&lt;/p&gt;&#xA;&lt;h3 id=&#34;formulari-dinscripció-i-domiciliació-de-quotes&#34;&gt;Formulari d&amp;rsquo;inscripció i domiciliació de quotes&lt;/h3&gt;&#xA;&lt;p&gt;Si vols ajudar-nos a conseguir un barri millor per a viure pots afiliar-te a l&amp;rsquo;Associació de veïns i veïnes de Campanar emplenant el formulari.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;INSCRIPCIÓ&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Una vegada omplit el formulari d&amp;rsquo;inscripció rebràs un email amb el document de domiciliació de les quotes, que caldrà que plenes i tornes signat.&lt;/p&gt;</description>
     </item>
   </channel>
