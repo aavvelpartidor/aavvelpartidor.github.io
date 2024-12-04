@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>{{ .Site.BaseURL }}</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/activitats/</loc>
+    <loc>{{ .Site.BaseURL }}tags/activitats/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/activitats/</loc>
+    <loc>{{ .Site.BaseURL }}categories/activitats/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/welcome-to-hugo/</loc>
+    <loc>{{ .Site.BaseURL }}posts/welcome-to-hugo/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/aprenentatge/</loc>
+    <loc>{{ .Site.BaseURL }}categories/aprenentatge/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>{{ .Site.BaseURL }}categories/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/ioga/</loc>
+    <loc>{{ .Site.BaseURL }}categories/ioga/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>{{ .Site.BaseURL }}/posts/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>{{ .Site.BaseURL }}tags/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/taller/</loc>
+    <loc>{{ .Site.BaseURL }}categories/taller/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/taller-ioga/</loc>
+    <loc>{{ .Site.BaseURL }}posts/taller-ioga/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/contacta/</loc>
+    <loc>{{ .Site.BaseURL }}pages/contacta/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
+    <loc>{{ .Site.BaseURL }}pages/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/uneix-te/</loc>
+    <loc>{{ .Site.BaseURL }}pages/uneix-te/</loc>
   </url>
 </urlset>
